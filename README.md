@@ -157,7 +157,7 @@ https://github.com/user-attachments/assets/4156fb85-736d-4ee9-9f85-293528d78c3b
 
 ## 📂 How to Use This Report
 
-1. Download and open the `.pbix` file in Power BI Desktop.
+1. Download and open the `Movies_Dasboard..pbix` file in Power BI Desktop.
 2. Use the left panel filters to refine your analysis.
 3. Click the **buttons** (`Yearly Trend`, `Region Trend`, `Report`) to switch views.
 4. Hover over visuals and data points for detailed tooltips.
