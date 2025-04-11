@@ -1,6 +1,3 @@
-Awesome! Here's a more **extended and detailed version** of the `README.md` for your **Box Office Trends (1980–2020)** Power BI project, following the same clean and professional structure:
-
----
 
 # 🎬 Box Office Trends (1980 - 2020) | Power BI Analytics Project
 
