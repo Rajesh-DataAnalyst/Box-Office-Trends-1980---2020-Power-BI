@@ -118,6 +118,7 @@ To enhance interactivity and allow user-driven exploration:
 - **Rating** filter
 - **Country** filter
 - Navigation buttons: `Yearly Trend`, `Region Trend`, `Final Report`
+- **Selected Measure** Budget, Gross, Profit, Profit to Budget Ratio.
 
 ---
 
