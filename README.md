@@ -135,6 +135,13 @@ To enhance interactivity and allow user-driven exploration:
 ### 📑 Final Tabular Report
 <img width="566" alt="report" src="https://github.com/user-attachments/assets/601b1850-faa7-4e19-a460-0808be6919f8" />
 
+## 🎥 Dashboard Walkthrough Video
+
+Watch a full walkthrough of the dashboard here:
+
+
+https://github.com/user-attachments/assets/4156fb85-736d-4ee9-9f85-293528d78c3b
+
 
 ---
 
