@@ -173,5 +173,11 @@ If you found this dashboard insightful:
 - 🤝 Connect on LinkedIn
 
 ---
+📫 Let's Connect
+Mobile: 630-253-1081
+LinkedIn: [https://linkedin.com/in/rajesh-m-92b182341]
+Email: [rajesh.mr1308@gmail.com]
+GitHub profile: [https://github.com/Rajesh-DataAnalyst]
+Open to work
 
 Would you like me to export this as a `.md` file or suggest folder structure and assets layout (`screenshots`, `.pbix`, `assets`)?
